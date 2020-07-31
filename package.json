@@ -1,0 +1,24 @@
+{
+  "name": "@brandonv98/vc-lib-async",
+  "version": "0.1.0",
+  "description": "async handler lib",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo test command not set | exit code 0"
+  },
+  "repository": {
+    "url": "git://github.com/brandonv98/vc-lib-async.git"
+  },
+  "keywords": [
+    "package",
+    "async",
+    "vc-lib",
+    "async-handler"
+  ],
+  "author": "Brandon VanCamp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonv98/vc-lib-async/issues"
+  },
+  "homepage": "https://github.com/brandonv98/vc-lib-async#readme"
+}
