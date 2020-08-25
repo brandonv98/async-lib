@@ -6,8 +6,9 @@
 2. Install package with ```$ npm```
 
 Install from the command line:
-``` $ npm install @brandonv98/async-lib@0.2.0 ```
+- ``` $ npm install @brandonv98/async-lib@0.2.0 ```
+
 Install via package.json:
-``` "@brandonv98/async-lib": "0.2.0" ```
+- ``` "@brandonv98/async-lib": "0.2.0" ```
 
 ---
