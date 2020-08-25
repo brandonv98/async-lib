@@ -1,6 +1,6 @@
 # async-lib
- async handler w/ callback package 
----
+async handler w/ callback package 
+
 ## Install Documents
 1. Create & Add ```registry=https://npm.pkg.github.com/brandonv98``` into your ```.npmrc``` file in the root project folder.
 2. Install package with ```$ npm```
