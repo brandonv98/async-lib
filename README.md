@@ -1,5 +1,5 @@
 # async-lib
-async handler w/ callback package 
+async handler extreamly light weight async callback package.
 
 ## Install Documents
 1. Create & Add ```registry=https://npm.pkg.github.com/brandonv98``` into your ```.npmrc``` file in the root project folder.
